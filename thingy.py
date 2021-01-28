@@ -15,7 +15,7 @@ def hash(strin):
 
 if __name__ == "__main__":
 
-	alphabet = "abcdefghigklmnopqrstuvwxyz"
+	alphabet = "abcdefghigklmnopqrstu"
 	rep = 6
 
 	words = []
